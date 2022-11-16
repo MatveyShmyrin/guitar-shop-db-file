@@ -1,0 +1,180 @@
+{
+"items": [
+{
+"id": "1",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "2",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "3",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "4",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "5",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "6",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "7",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "8",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "9",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "10",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "11",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "12",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "13",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "14",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "15",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "16",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "17",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "18",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "19",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "20",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+},
+{
+"id": "21",
+"name": "Fender Stratocaster HSS",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"price": 1000,
+"description": "Guitar description",
+"type": "electro"
+},
+{
+"id": "22",
+"name": "LAG Tramontane T70A",
+"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"price": 800,
+"description": "Guitar description",
+"type": "acoustic"
+}
+]
+}
