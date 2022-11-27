@@ -18,161 +18,105 @@
 },
 {
 "id": "3",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
-"price": 1000,
+"name": "Fender ESC-105",
+"imgSrc": "https://tehnoteca.ru//img/872/871234/fender_esc_105_1.jpg",
+"price": 300,
 "description": "Guitar description",
-"type": "electro"
+"type": "acoustic"
 },
 {
 "id": "4",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
-"price": 800,
+"name": "Fender CD-60SCE",
+"imgSrc": "https://tehnoteca.ru//img/1212/1211313/fender_cd_60sce_1.jpg",
+"price": 900,
 "description": "Guitar description",
 "type": "acoustic"
 },
 {
 "id": "5",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
-"price": 1000,
+"name": "Fender Player Telecaster",
+"imgSrc": "https://tehnoteca.ru//img/1495/1494111/fender_player_telecaster_1.jpg",
+"price": 1200,
 "description": "Guitar description",
 "type": "electro"
 },
 {
 "id": "6",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
-"price": 800,
+"name": "Epiphone Les Paul Express",
+"imgSrc": "https://tehnoteca.ru//img/1099/1098234/epiphone_les_paul_express_1.jpg",
+"price": 700,
 "description": "Guitar description",
-"type": "acoustic"
+"type": "electro"
 },
 {
 "id": "7",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
-"price": 1000,
+"name": "Stagg SET-CST",
+"imgSrc": "https://tehnoteca.ru//img/1780/1779955/stagg_set_cst_1.jpg",
+"price": 650,
 "description": "Guitar description",
 "type": "electro"
 },
 {
 "id": "8",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
-"price": 800,
+"name": "Yamaha JR1",
+"imgSrc": "https://tehnoteca.ru//img/865/864040/yamaha_jr1_1.jpg",
+"price": 400,
 "description": "Guitar description",
 "type": "acoustic"
 },
 {
 "id": "9",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
-"price": 1000,
+"name": "Cort AD810",
+"imgSrc": "https://tehnoteca.ru//img/867/866185/cort_ad810_1.jpg",
+"price": 300,
 "description": "Guitar description",
-"type": "electro"
+"type": "acoustic"
 },
 {
 "id": "10",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
-"price": 800,
+"name": "Cort Gold OC8",
+"imgSrc": "https://tehnoteca.ru//img/2153/2152866/cort_gold_oc8_1.jpg",
+"price": 700,
 "description": "Guitar description",
 "type": "acoustic"
 },
 {
 "id": "11",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"name": "Fender Classic Series '50s Stratocaster",
+"imgSrc": "https://tehnoteca.ru//img/982/981768/fender_classic_series_50s_stratocaster_1.jpg",
 "price": 1000,
 "description": "Guitar description",
 "type": "electro"
 },
 {
 "id": "12",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
+"name": "Squier Bullet Strat HSS",
+"imgSrc": "https://tehnoteca.ru//img/972/971884/squier_bullet_strat_hss_1.jpg",
 "price": 800,
 "description": "Guitar description",
-"type": "acoustic"
+"type": "electro"
 },
 {
 "id": "13",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
-"price": 1000,
+"name": "Jackson JS Series Dinky JS11",
+"imgSrc": "https://tehnoteca.ru//img/1007/1006730/jackson_js_series_dinky_js11_1.jpg",
+"price": 1100,
 "description": "Guitar description",
 "type": "electro"
 },
 {
 "id": "14",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
-"price": 800,
+"name": "Epiphone SG Special",
+"imgSrc": "https://tehnoteca.ru//img/963/962473/epiphone_sg_special_1.jpg",
+"price": 900,
 "description": "Guitar description",
-"type": "acoustic"
+"type": "electro"
 },
 {
 "id": "15",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
+"name": "Yamaha F310",
+"imgSrc": "https://tehnoteca.ru//img/867/866072/yamaha_f310_1.jpg",
 "price": 1000,
-"description": "Guitar description",
-"type": "electro"
-},
-{
-"id": "16",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
-"price": 800,
-"description": "Guitar description",
-"type": "acoustic"
-},
-{
-"id": "17",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
-"price": 1000,
-"description": "Guitar description",
-"type": "electro"
-},
-{
-"id": "18",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
-"price": 800,
-"description": "Guitar description",
-"type": "acoustic"
-},
-{
-"id": "19",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
-"price": 1000,
-"description": "Guitar description",
-"type": "electro"
-},
-{
-"id": "20",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
-"price": 800,
-"description": "Guitar description",
-"type": "acoustic"
-},
-{
-"id": "21",
-"name": "Fender Stratocaster HSS",
-"imgSrc": "https://tehnoteca.ru//img/1495/1494097/fender_player_stratocaster_hss_11.jpg",
-"price": 1000,
-"description": "Guitar description",
-"type": "electro"
-},
-{
-"id": "22",
-"name": "LAG Tramontane T70A",
-"imgSrc": "https://tehnoteca.ru//img/1254/1253304/lag_tramontane_t70a_1.jpg",
-"price": 800,
 "description": "Guitar description",
 "type": "acoustic"
 }
